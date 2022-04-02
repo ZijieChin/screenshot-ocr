@@ -1,0 +1,8 @@
+{
+  "url": "http://106.52.95.229:8087/predict/ocr_system",
+  "hot-key": [
+    "ctrl",
+    "y"
+  ],
+  "tips": "Only ctrl, shift, alt and super (Windows key) are allowed. Be aware that the hotkey won't be valid if it's conflict"
+}
